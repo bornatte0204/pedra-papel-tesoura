@@ -56,7 +56,9 @@ header > h1{
     font-size: 40px;
     color: white;
 }
-
+.imagem{
+    width: 60px;
+}
 .result > p{
     text-align: center;
     font-family: sans-serif;
