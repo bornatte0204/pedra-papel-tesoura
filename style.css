@@ -34,7 +34,7 @@ header > h1{
 
 .badge{
     background: #85c908;
-    color: white;
+    color: rgb(84, 197, 9);
     font-size: 14px;
     padding: 2px 10px;
     font-family: sans-serif;
@@ -54,7 +54,7 @@ header > h1{
 
 .result{
     font-size: 40px;
-    color: white;
+    color: rgb(136, 214, 11);
 }
 .imagem{
     width: 60px;
