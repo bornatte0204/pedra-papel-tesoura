@@ -40,13 +40,13 @@ header > h1{
     font-family: sans-serif;
 }
 
-#eu-label{
+#user-label{
     position: absolute;
     top: 30px;
     left: -25px;
 }
 
-#você-label{
+#computer-label{
     position: absolute;
     top: 30px;
     right: -30px;
